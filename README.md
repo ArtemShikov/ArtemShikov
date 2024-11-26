@@ -61,12 +61,13 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
 
 ## 🤝 Social Networks:
  <div id="badges">
-    <a href="https://orcid.org/0000-0002-3027-8826" target="_blank">
-      <img src="https://i0.wp.com/info.orcid.org/wp-content/uploads/2021/03/ORCID-API-icon.png?fit=400%2C379&ssl=1" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://next.nexusmods.com/profile/ArtemSHikoff" target="_blank">
+    <a href="https://next.nexusmods.com/profile/ArtemSHikoff/mods" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/tr/c/c2/NexusMods.png" width="40" height="40" alt="linkedin" />
     </a>
+    <a href="https://orcid.org/0000-0002-3027-8826" target="_blank">
+      <img src="https://library.pitt.edu/sites/default/files/images/medialibrary/orcid.png" width="40" height="40" alt="linkedin" />
+    </a>
+    
     
   
   </div>
