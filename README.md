@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Header](https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/igor-freitas-mesa.gif)]<!--(path to my channel)>
+
+About me
+
+Languages and Tools
+
+Follow Me
