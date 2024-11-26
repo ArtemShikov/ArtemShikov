@@ -60,6 +60,19 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
 ![C++](https://img.shields.io/badge/C++-2c0f4e?style=for-the-badge&logo=c%2B%2B)![C](https://img.shields.io/badge/C-2c0f4e?style=for-the-badge&logo=C)![Python](https://img.shields.io/badge/Python-2c0f4e?style=for-the-badge&logo=Python)![PHP](https://img.shields.io/badge/PHP-2c0f4e?style=for-the-badge&logo=php)![XML](https://img.shields.io/badge/XML-2c0f4e?style=for-the-badge&logo=XML)![JSON](https://img.shields.io/badge/JSON-2c0f4e?style=for-the-badge&logo=JSON)![JSON](https://img.shields.io/badge/Gitlab-2c0f4e?style=for-the-badge&logo=Gitlab)![Github](https://img.shields.io/badge/Github-2c0f4e?style=for-the-badge&logo=Github)
 
 ## 🤝 Social Networks:
-
+ <div id="badges">
+    <a href="https://orcid.org/0000-0002-3027-8826" target="_blank">
+      <img src="https://i0.wp.com/info.orcid.org/wp-content/uploads/2021/03/ORCID-API-icon.png?fit=400%2C379&ssl=1" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://next.nexusmods.com/profile/ArtemSHikoff" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/tr/c/c2/NexusMods.png" width="40" height="40" alt="linkedin" />
+    </a>
+    
+  
+  </div>
+ 
 <!-- [![HSE](https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/hse.png)](https://www.hse.ru/org/persons/208534475/#sci) -->
 <!-- ## Follow Me -->
+  <!-- <a href=" " target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a> -->
