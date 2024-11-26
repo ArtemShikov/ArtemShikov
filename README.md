@@ -59,6 +59,11 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
 ## Languages and Tools
 ![C++](https://img.shields.io/badge/C++-2c0f4e?style=for-the-badge&logo=c%2B%2B)![C](https://img.shields.io/badge/C-2c0f4e?style=for-the-badge&logo=C)![Python](https://img.shields.io/badge/Python-2c0f4e?style=for-the-badge&logo=Python)![PHP](https://img.shields.io/badge/PHP-2c0f4e?style=for-the-badge&logo=php)![XML](https://img.shields.io/badge/XML-2c0f4e?style=for-the-badge&logo=XML)![JSON](https://img.shields.io/badge/JSON-2c0f4e?style=for-the-badge&logo=JSON)![JSON](https://img.shields.io/badge/Gitlab-2c0f4e?style=for-the-badge&logo=Gitlab)![Github](https://img.shields.io/badge/Github-2c0f4e?style=for-the-badge&logo=Github)
 
+
+ ## Мои Статьи по Моддингу <p><img src="https://cdn2.steamgriddb.com/icon_thumb/ccf4769973f7658ac976a063527c4292.png" width="40" height="40" alt="linkedin" />
+ - [Навык читать и понимать XML-структуру интерфейса Обливиона](https://tesall.club/tutorials/the-elder-scrolls-modding/modostroenie-oblivion/1609-navik-chitat-i-ponimat-xml-strukturu-interfeisa-obliviona)
+ - [Создаем элемент интерфейса](https://tesall.club/tutorials/mir-fallout/modostroenie-fallout/1610-sozdaem-element-interfeisa)
+  
 ## 🤝 Social Networks:
  <div id="badges">
     <a href="https://next.nexusmods.com/profile/ArtemSHikoff/mods" target="_blank">
@@ -67,10 +72,8 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
     <a href="https://orcid.org/0000-0002-3027-8826" target="_blank">
       <img src="https://library.pitt.edu/sites/default/files/images/medialibrary/orcid.png" width="40" height="40" alt="linkedin" />
     </a>
-    
-    
-  
-  </div>
+      </div>
+
  
 <!-- [![HSE](https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/hse.png)](https://www.hse.ru/org/persons/208534475/#sci) -->
 <!-- ## Follow Me -->
