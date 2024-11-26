@@ -59,5 +59,7 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
 ## Languages and Tools
 ![C++](https://img.shields.io/badge/C++-2c0f4e?style=for-the-badge&logo=c%2B%2B)![C](https://img.shields.io/badge/C-2c0f4e?style=for-the-badge&logo=C)![Python](https://img.shields.io/badge/Python-2c0f4e?style=for-the-badge&logo=Python)![PHP](https://img.shields.io/badge/PHP-2c0f4e?style=for-the-badge&logo=php)![XML](https://img.shields.io/badge/XML-2c0f4e?style=for-the-badge&logo=XML)![JSON](https://img.shields.io/badge/JSON-2c0f4e?style=for-the-badge&logo=JSON)![JSON](https://img.shields.io/badge/Gitlab-2c0f4e?style=for-the-badge&logo=Gitlab)![Github](https://img.shields.io/badge/Github-2c0f4e?style=for-the-badge&logo=Github)
 
+## 🤝 Social Networks:
 
+[![HSE](https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/hse.png)](https://www.hse.ru/org/persons/208534475/#sci)
 <!-- ## Follow Me -->
