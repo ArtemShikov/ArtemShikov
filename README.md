@@ -61,5 +61,5 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
 
 ## 🤝 Social Networks:
 
-[![HSE](https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/hse.png)](https://www.hse.ru/org/persons/208534475/#sci)
+<!-- [![HSE](https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/hse.png)](https://www.hse.ru/org/persons/208534475/#sci) -->
 <!-- ## Follow Me -->
