@@ -25,11 +25,11 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
 ## Coding
 
 <div>
+<img src="https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/GIt.svg" title="git" width="40" height="40"/>&nbsp
+<img src="https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/Bash.png" title="bash" width="40" height="40"/>&nbsp
 <img src="https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/vscode.svg" title="vscode" width="40" height="40"/>&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" title="brackets" width="40" height="40"/>&nbsp
 <img src="https://store-images.s-microsoft.com/image/apps.8200.14525614036320964.388ccdd1-65a9-4bfc-81ce-c614493bcc79.5dfc4719-b603-45a1-a73e-bf55d9d25077" title="devc++" width="40" height="40"/>&nbsp
-<img src="https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/GIt.svg" title="git" width="40" height="40"/>&nbsp
-<img src="https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/Bash.png" title="bash" width="40" height="40"/>&nbsp
 
 </div>
 
@@ -57,7 +57,7 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
 </div>
 
 ## Languages and Tools
-![C++](https://img.shields.io/badge/C++-2c0f4e?style=for-the-badge&logo=c%2B%2B)![C](https://img.shields.io/badge/C-2c0f4e?style=for-the-badge&logo=C)![Python](https://img.shields.io/badge/Python-2c0f4e?style=for-the-badge&logo=Python)![PHP](https://img.shields.io/badge/PHP-2c0f4e?style=for-the-badge&logo=php)![XML](https://img.shields.io/badge/XML-2c0f4e?style=for-the-badge&logo=XML)![JSON](https://img.shields.io/badge/JSON-2c0f4e?style=for-the-badge&logo=JSON)![JSON](https://img.shields.io/badge/JSON-2c0f4e?style=for-the-badge&logo=Gitlab)
+![C++](https://img.shields.io/badge/C++-2c0f4e?style=for-the-badge&logo=c%2B%2B)![C](https://img.shields.io/badge/C-2c0f4e?style=for-the-badge&logo=C)![Python](https://img.shields.io/badge/Python-2c0f4e?style=for-the-badge&logo=Python)![PHP](https://img.shields.io/badge/PHP-2c0f4e?style=for-the-badge&logo=php)![XML](https://img.shields.io/badge/XML-2c0f4e?style=for-the-badge&logo=XML)![JSON](https://img.shields.io/badge/JSON-2c0f4e?style=for-the-badge&logo=JSON)![JSON](https://img.shields.io/badge/Gitlab-2c0f4e?style=for-the-badge&logo=Gitlab)![Github](https://img.shields.io/badge/Github-2c0f4e?style=for-the-badge&logo=Github)
 
 
 <!-- ## Follow Me -->
