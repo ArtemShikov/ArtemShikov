@@ -60,7 +60,7 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
 ![C++](https://img.shields.io/badge/C++-2c0f4e?style=for-the-badge&logo=c%2B%2B)![C](https://img.shields.io/badge/C-2c0f4e?style=for-the-badge&logo=C)![Python](https://img.shields.io/badge/Python-2c0f4e?style=for-the-badge&logo=Python)![PHP](https://img.shields.io/badge/PHP-2c0f4e?style=for-the-badge&logo=php)![XML](https://img.shields.io/badge/XML-2c0f4e?style=for-the-badge&logo=XML)![JSON](https://img.shields.io/badge/JSON-2c0f4e?style=for-the-badge&logo=JSON)![JSON](https://img.shields.io/badge/Gitlab-2c0f4e?style=for-the-badge&logo=Gitlab)![Github](https://img.shields.io/badge/Github-2c0f4e?style=for-the-badge&logo=Github)
 
 
- ## Мои Статьи по Моддингу <p><img src="https://cdn2.steamgriddb.com/icon_thumb/ccf4769973f7658ac976a063527c4292.png" width="40" height="40" alt="linkedin" /><img src="https://www.iconarchive.com/download/i282/3xhumed/mega-games-pack-23/Fallout-3-new-2.ico" width="40" height="40" alt="linkedin" />
+ ## Мои Статьи по Моддингу <p><img src="https://cdn2.steamgriddb.com/icon_thumb/ccf4769973f7658ac976a063527c4292.png" width="40" height="40" alt="obl" /><img src="https://www.iconarchive.com/download/i282/3xhumed/mega-games-pack-23/Fallout-3-new-2.ico" width="40" height="40" alt="fnv"/>
  - [Навык читать и понимать XML-структуру интерфейса Обливиона](https://tesall.club/tutorials/the-elder-scrolls-modding/modostroenie-oblivion/1609-navik-chitat-i-ponimat-xml-strukturu-interfeisa-obliviona)
  - [Создаем элемент интерфейса](https://tesall.club/tutorials/mir-fallout/modostroenie-fallout/1610-sozdaem-element-interfeisa)
   
