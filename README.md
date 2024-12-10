@@ -73,12 +73,12 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
       <img src="https://library.pitt.edu/sites/default/files/images/medialibrary/orcid.png" width="40" height="40" alt="linkedin" />
     </a>
 <a href="https://www.hse.ru/org/persons/208534475/#sci" target="_blank">
-      <img src=" https://raw.githubusercontent.com/ArtemShikov/ArtemShikov/refs/heads/main/assets/hse.png" width="40" height="40" alt="hse" />
+      <img src=" https://globalaffairs.ru/wp-content/themes/globalaffairs/layout//blocks.basic/dk-founders/__images/hse_ru.png?v1" width="40" height="40" alt="hse" />
     </a>
          </div>
 
  
-<!-- [![HSE](https://github.com/ArtemShikov/ArtemShikov/blob/main/assets/hse.png)](https://www.hse.ru/org/persons/208534475/#sci) -->
+<!-- [![HSE](https://globalaffairs.ru/wp-content/themes/globalaffairs/layout//blocks.basic/dk-founders/__images/hse_ru.png?v1)](https://www.hse.ru/org/persons/208534475/#sci) -->
 <!-- ## Follow Me -->
   <!-- <a href=" " target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
