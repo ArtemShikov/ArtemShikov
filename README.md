@@ -63,6 +63,7 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
  ## Мои Статьи по Моддингу <p><img src="https://cdn2.steamgriddb.com/icon_thumb/ccf4769973f7658ac976a063527c4292.png" width="40" height="40" alt="obl" /><img src="https://raw.githubusercontent.com/ArtemShikov/ArtemShikov/refs/heads/main/assets/3xhumed-Mega-Games-Pack-23-Fallout-3-new-2.ico" width="40" height="40" alt="fnv"/>
  - [Навык читать и понимать XML-структуру интерфейса Обливиона](https://tesall.club/tutorials/the-elder-scrolls-modding/modostroenie-oblivion/1609-navik-chitat-i-ponimat-xml-strukturu-interfeisa-obliviona)
  - [Создаем элемент интерфейса](https://tesall.club/tutorials/mir-fallout/modostroenie-fallout/1610-sozdaem-element-interfeisa)
+ - [New Vegas Script Extender часть 1: синтаксис и выражения](https://tesall.club/tutorials/mir-fallout/modostroenie-fallout/1613-nvse4-chast-1-sintaksis-i-virazheniya)
   
 ## 🤝 Social Networks
  <div id="badges">
