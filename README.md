@@ -75,9 +75,9 @@ I am a QA Engineer, modmaker and academic researcher in HSE, Moscow.
     <a href="https://orcid.org/0000-0002-3027-8826" target="_blank">
       <img src="https://library.pitt.edu/sites/default/files/images/medialibrary/orcid.png" width="40" height="40" alt="linkedin" />
     </a>
-<a href="https://www.hse.ru/org/persons/208534475/#sci" target="_blank">
+<!-- <a href="https://www.hse.ru/org/persons/208534475/#sci" target="_blank">
       <img src=" https://globalaffairs.ru/wp-content/themes/globalaffairs/layout//blocks.basic/dk-founders/__images/hse_ru.png?v1" width="40" height="40" alt="hse" />
-    </a>
+    </a> -->
          </div>
 
  
